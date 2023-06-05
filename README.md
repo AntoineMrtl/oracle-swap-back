@@ -1,4 +1,5 @@
-Oracle-based AMM with incentivized liquidity providing and arbitrage
+# Oracle Swap
+## An Oracle-based AMM with incentivized liquidity providing and arbitrage
 
 The base contract was a fork of : https://github.com/pyth-network/pyth-crosschain/tree/main/target_chains/ethereum/examples/oracle_swap
 
